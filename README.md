@@ -238,7 +238,7 @@ If you're building something interesting, exploring a technical concept, or look
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bank2we&hide_border=true&theme=github-compact" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Contribution Activity"/>
 
 </div>
 
