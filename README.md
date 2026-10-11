@@ -1,26 +1,16 @@
  <div align="center">
 
-<img src="https://img.wattpad.com/8bc7d75e4db7807486f8facc01ae6d354fb81f6f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f525634776c46512d304d694b46673d3d2d38342e313632373066313936633730333030353232343233383733353235322e676966" width="100%" alt="Animated profile banner"/>
+<img src="https://img.wattpad.com/8bc7d75e4db7807486f8facc01ae6d354fb81f6f/68747470733a2f2f73332e616d617a6f6e6177732d6d656469612d736572766963652f53746f7279496d6167652f525634776c46512d304d694b46673d3d2d38342e313632373066313936633730333030353232343233383733353235322e676966" width="100%" alt="Animated banner"/>
 
-Hi, I'm Bank
+# Hi, I'm Bank
 
-Software Developer · AI & Technology Enthusiast · Entrepreneur
+### Software Developer | AI & Technology Enthusiast
 
-Building software, intelligent systems, and digital experiences.
+Building software, intelligent systems, and digital products.
 
-<p>
-  <a href="https://github.com/bank2we">
-    <img src="https://img.shields.io/badge/GitHub-bank2we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://bansolute.com">
-    <img src="https://img.shields.io/badge/Bansolute-Founder-C9A45C?style=for-the-badge&logoColor=white" alt="Bansolute"/>
-  </a>
-  <a href="https://mythic-services.xyz">
-    <img src="https://img.shields.io/badge/Mythic_Services-Co--Founder-7B68EE?style=for-the-badge&logoColor=white" alt="Mythic Services"/>
-  </a>
-</p>
-
-About Me · Projects · Tech Stack · GitHub Stats · Contact
+[![GitHub](https://img.shields.io/badge/GitHub-bank2we-181717?style=for-the-badge&logo=github)](https://github.com/bank2we)
+[![Bansolute](https://img.shields.io/badge/Founder-Bansolute-C9A45C?style=for-the-badge)](https://bansolute.com)
+[![Mythic Services](https://img.shields.io/badge/Co--Founder-Mythic_Services-7B68EE?style=for-the-badge)](https://mythic-services.xyz)
 
 </div>
 
