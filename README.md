@@ -4,17 +4,23 @@
 
 # Hi, I'm Bank
 
-### Software Developer | AI & Technology Enthusiast | Founder at Bansolute & Mythic Services
+### Software Developer · AI & Technology Enthusiast · Entrepreneur
 
 Building software, intelligent systems, and digital experiences.
 
 <p>
-  <a href="https://github.com/bank2we"><img src="https://img.shields.io/badge/GitHub-bank2we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://bansolute.com"><img src="https://img.shields.io/badge/Founder-Bansolute-C9A45C?style=for-the-badge" alt="Bansolute"/></a>
-  <a href="https://mythic-services.xyz"><img src="https://img.shields.io/badge/Co--Founder-Mythic_Services-7B68EE?style=for-the-badge" alt="Mythic Services"/></a>
+  <a href="https://github.com/bank2we">
+    <img src="https://img.shields.io/badge/GitHub-bank2we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://bansolute.com">
+    <img src="https://img.shields.io/badge/Bansolute-Founder-C9A45C?style=for-the-badge&logoColor=white" alt="Bansolute"/>
+  </a>
+  <a href="https://mythic-services.xyz">
+    <img src="https://img.shields.io/badge/Mythic_Services-Co--Founder-7B68EE?style=for-the-badge&logoColor=white" alt="Mythic Services"/>
+  </a>
 </p>
 
-[About Me](#-about-me) · [Projects](#-featured-projects) · [Languages and Tools](#-languages-and-tools) · [GitHub Stats](#-github-statistics) · [Contact](#-connect-with-me)
+[About Me](#-about-me) · [Projects](#-featured-projects) · [Tech Stack](#-technologies-and-tools) · [GitHub Stats](#-github-statistics) · [Contact](#-connect-with-me)
 
 </div>
 
@@ -22,81 +28,195 @@ Building software, intelligent systems, and digital experiences.
 
 ## About Me
 
-I'm a software developer and technology enthusiast focused on building practical software, AI-powered applications, and digital platforms.
+I'm Bank, a software developer and technology enthusiast interested in building practical digital products, intelligent applications, automation systems, and scalable software solutions.
 
-- Founder of **Bansolute** and co-founder of **Mythic Services**.
-- Developing Discord bots, websites, APIs, and automation systems.
-- Exploring artificial intelligence, cybersecurity, and system protection.
+My work combines software development, artificial intelligence, web technologies, APIs, and product development. I enjoy exploring new technologies, solving technical challenges, and turning ideas into functional projects.
+
+Beyond development, I work on technology ventures, collaborate with developers, and explore opportunities to create useful products and services.
+
+- Founder of **Bansolute**, a technology-focused venture.
+- Co-founder of **Mythic Services**, a digital services company.
+- Developer working on Discord bots, web applications, APIs, and automation.
+- Exploring artificial intelligence, cybersecurity, and digital protection.
+- Interested in building products that solve real problems and can grow over time.
+- Always learning, experimenting, and improving my development skills.
 
 ## Current Focus
 
 - Developing **Thinkatix**, a Discord analytics and community intelligence platform.
-- Working on Discord automation and software projects.
-- Learning cybersecurity, secure application development, and AI integration.
+- Contributing to the development and improvement of **AdamC Bot**.
+- Learning more about cybersecurity, system protection, and secure software development.
+- Exploring AI integrations, intelligent assistants, and automated workflows.
+- Improving my skills in backend development, API architecture, and modern web technologies.
 
 ## Featured Projects
 
-### [Thinkatix](https://thinkatix.sbs/)
+### Thinkatix
 
-Discord analytics and community intelligence, with engagement insights, dashboards, and AI-assisted recommendations.
+**Discord Analytics & Community Intelligence**
 
-### [AdamC Bot](https://adam-c.xyz/)
+A platform concept focused on helping Discord server owners understand their communities through analytics, engagement insights, dashboards, and AI-assisted recommendations.
 
-Discord bot development focused on automation, interactive commands, and server management.
+- Community activity and engagement tracking.
+- Analytics dashboards for server owners.
+- AI-assisted insights based on community data.
+- Notifications designed to help administrators stay informed.
 
-### [Bansolute](https://bansolute.com/)
+Website: [thinkatix.sbs](https://thinkatix.sbs/)
 
-A technology venture focused on software development, digital systems, infrastructure, and protection.
+### AdamC Bot
 
-### [Mythic Services](https://mythic-services.xyz/)
+**Discord Automation & Community Tools**
 
-A digital services company providing Discord bots, websites, hosting, design, and technology solutions.
+A Discord bot project focused on server utilities, automation, interactive commands, and community management features.
+
+- Custom commands and server utilities.
+- Interactive Discord experiences.
+- Automation and management workflows.
+- Ongoing development and feature improvements.
+
+Website: [adam-c.xyz](https://adam-c.xyz/)
+
+### Bansolute
+
+**Technology, Software & Digital Systems**
+
+A technology venture focused on software, websites, digital infrastructure, and technology solutions, with an interest in protection and security across its ecosystem.
+
+- Software and web application development.
+- Digital systems and infrastructure.
+- Technology research and product development.
+- Security-focused thinking and system reliability.
+
+Website: [bansolute.com](https://bansolute.com)
+
+### Mythic Services
+
+**Digital Services & Software Development**
+
+A digital services company providing development and technology-related solutions for clients and communities.
+
+- Discord bot development.
+- Website and web system development.
+- Hosting and technical services.
+- Design, automation, and AI-related solutions.
+
+Website: [mythic-services.xyz](https://mythic-services.xyz)
 
 ---
 
-## Languages and Tools
+## Technologies and Tools
+
+The technologies below represent my development interests and tools I work with or explore.
 
 ### Programming Languages
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,cs,rust,ruby,swift&perline=9" alt="Programming languages"/>
 </p>
 
 ### Web Development
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Quasar" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,vite&perline=7" alt="Web development technologies"/>
 </p>
 
-### Databases
+### Databases & Infrastructure
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,linux,git,github,cloudflare&perline=8" alt="Databases and infrastructure"/>
 </p>
 
-### Development Tools & Platforms
+### Platforms & Additional Tools
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=android,arduino,unity,apple,githubactions,vscode&perline=6" alt="Platforms and development tools"/>
 </p>
+
+### Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence & AI Integration
+- Discord Bot Development
+- Backend Development & REST APIs
+- Web Applications & Digital Platforms
+- Automation & Workflow Optimization
+- Cybersecurity & System Protection
+- Database Design & Data Management
+- Technology Startups & Product Development
+
+---
+
+## What I'm Interested In
+
+I enjoy working on projects that combine technical implementation with real-world usefulness.
+
+**Software Development**
+
+Designing and building applications, services, APIs, and systems that are maintainable and useful.
+
+**Artificial Intelligence**
+
+Exploring AI-powered applications, intelligent assistants, model integrations, and practical automation.
+
+**Web Technologies**
+
+Building websites, dashboards, backend services, and interactive digital experiences.
+
+**Automation**
+
+Reducing repetitive tasks through bots, scripts, integrations, and automated workflows.
+
+**Security & Reliability**
+
+Learning how to improve application security, protect systems, and build more reliable software.
+
+**Technology Ventures**
+
+Exploring product ideas, developing digital services, and turning technical concepts into practical solutions.
+
+---
+
+## Currently Learning
+
+- Cybersecurity fundamentals and system protection.
+- Secure application development and API security.
+- AI integration and intelligent application design.
+- Backend architecture and database management.
+- Modern web development practices.
+- Software reliability, deployment, and infrastructure.
+
+---
+
+## Collaboration
+
+I'm interested in collaborating on software projects, developer tools, Discord bots, AI-powered applications, and innovative technology ideas.
+
+If you're building something interesting, exploring a technical concept, or looking for a developer to collaborate with, feel free to reach out.
+
+**Areas I'm open to collaborating on:**
+
+- Open-source software and developer tools.
+- Discord bots and community platforms.
+- AI-powered applications and integrations.
+- Web applications and backend systems.
+- Automation and API integrations.
+- Experimental technology projects.
+
+---
+
+## Ask Me About
+
+- Software Development
+- Discord Bot Development
+- Artificial Intelligence (AI)
+- Web Development
+- Node.js and JavaScript
+- API Integration
+- Automation
+- Databases and Backend Systems
+- Technology Startups
+- Digital Products and Platforms
 
 ---
 
@@ -104,9 +224,9 @@ A digital services company providing Discord bots, websites, hosting, design, an
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bank2we&show_icons=true&locale=en&rank_icon=github&hide_border=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bank2we&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Bank's GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bank2we&layout=compact&langs_count=8&hide_border=true" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bank2we&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages"/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=bank2we&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 
@@ -118,7 +238,7 @@ A digital services company providing Discord bots, websites, hosting, design, an
 
 <div align="center">
 
-<img width="95%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Contribution Activity"/>
+<img width="95%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -126,17 +246,29 @@ A digital services company providing Discord bots, websites, hosting, design, an
 
 ## Connect With Me
 
-<div align="center">
+I'm always open to meaningful conversations about development, technology, collaboration, and new ideas.
 
-<a href="https://github.com/bank2we"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://bansolute.com"><img src="https://img.shields.io/badge/Website-Bansolute-C9A45C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bansolute website"/></a>
-<a href="mailto:enterprise@bansolute.com"><img src="https://img.shields.io/badge/Business_Inquiries-Contact_Me-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Business inquiries"/></a>
+<p>
+  <a href="https://github.com/bank2we">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:enterprise@bansolute.com">
+    <img src="https://img.shields.io/badge/Business_Inquiries-C9A45C?style=for-the-badge&logo=gmail&logoColor=white" alt="Business email"/>
+  </a>
+  <a href="https://bansolute.com">
+    <img src="https://img.shields.io/badge/Website-Bansolute-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 **Business inquiries:** enterprise@bansolute.com
 
-<br/>
+---
 
-*Building ideas into technology.*
+<div align="center">
+
+### Build. Learn. Improve. Repeat.
+
+*Turning ideas into technology, one project at a time.*
 
 <img src="https://komarev.com/ghpvc/?username=bank2we&style=flat&color=8A8F98&label=Profile+Views" alt="Profile views"/>
 
